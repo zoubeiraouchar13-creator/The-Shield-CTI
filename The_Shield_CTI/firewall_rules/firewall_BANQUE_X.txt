@@ -1,0 +1,3 @@
+# Règles de filtrage simulées - Jabaroot-Shield
+DROP 185.220.101.7  # source=CNSS bloc=3 latence=0.129s
+DROP 185.220.101.7  # source=CNSS bloc=4 latence=0.098s
