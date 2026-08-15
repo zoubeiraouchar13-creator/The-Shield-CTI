@@ -37,8 +37,6 @@ blocage automatique et coordonné des menaces.
 
 ## 2. Prérequis
 
-- Python 3.12 ou supérieur
-
 Installer les dépendances :
 
 ```bash
