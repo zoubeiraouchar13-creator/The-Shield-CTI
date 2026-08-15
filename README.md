@@ -2,6 +2,11 @@
 
 **Registre de Threat Intelligence Décentralisé & Collaboratif par Agents Autonomes**
 
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Flask](https://img.shields.io/badge/Flask-3.0-red)
+![requests](https://img.shields.io/badge/requests-2.31-cyan)
+![cryptography](https://img.shields.io/badge/cryptography-42.0-lightblue)
+
 Ce projet implémente l'architecture décrite dans le document de conception :
 une blockchain souveraine où plusieurs institutions marocaines (SOC) partagent
 en temps réel, de manière anonyme mais cryptographiquement vérifiable, des
